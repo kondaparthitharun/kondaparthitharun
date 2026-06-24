@@ -1,23 +1,13 @@
-## Hi there 👋
-
-<!--
-**kondaparthitharun/kondaparthitharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># Hi 👋, I'm Tharun Kondaparthi
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=28\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+Into+Insights;Future+Data+Analyst+🚀)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0ea5e9,100:8b5cf6&text=Tharun%20Kondaparthi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+# 👋 Hello, I'm Tharun Kondaparthi
+
+### 📊 Aspiring Data Analyst  
+### 🚀 Turning Data Into Actionable Insights
+
+<img src="https://komarev.com/ghpvc/?username=kondaparthitharun&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -25,100 +15,145 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
-
-🌱 Currently learning and building projects using:
-
-* Excel
-* SQL
-* Power BI
-* Python
-
-🎯 Goal:
-Become a Data Analyst and help organizations make data-driven decisions.
+🔹 Aspiring Data Analyst passionate about uncovering insights from data.  
+🔹 Currently learning and building projects in **Excel, SQL, Power BI, Python, Pandas, and Data Visualization**.  
+🔹 Focused on developing practical analytical skills through real-world projects and continuous learning.  
+🔹 Goal: Build impactful dashboards, generate business insights, and start a successful career in Data Analytics.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+<div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+<br><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kondaparthitharun&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kondaparthitharun&theme=tokyonight" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kondaparthitharun&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondaparthitharun&layout=compact&theme=tokyonight" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondaparthitharun&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kondaparthitharun&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kondaparthitharun&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kondaparthitharun&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Blinkit Sales Dashboard
-
-Power BI dashboard for analyzing sales performance, revenue trends, and KPIs.
+Power BI dashboard for sales performance analysis, KPIs, revenue trends, and business insights.
 
 ### 👨‍💼 HR Analytics Dashboard
-
-Employee attrition analysis and workforce insights dashboard.
+Workforce and employee attrition analytics dashboard using Power BI.
 
 ### 🎬 Netflix Data Analysis
+Python-based analysis of Netflix content trends and patterns.
 
-Python-based analysis of Netflix content trends and distribution.
-
-### 📈 SQL Business Analysis
-
-Business reporting and analytical queries using SQL.
+### 📈 SQL Business Insights
+Business reporting and analytical query development using SQL.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Certifications & Learning
 
-* Advanced Excel
-* SQL Queries
-* Power BI Dashboards
-* Python for Data Analysis
-* Pandas & NumPy
+🏅 Data Analytics - Currently Learning  
+🏅 Power BI Dashboard Development - Practice Projects  
+🏅 SQL for Data Analysis - Practice Queries  
+🏅 Python for Data Analysis - Pandas & NumPy  
+🏅 Excel for Business Reporting  
+
+---
+
+## 🌱 Currently Learning
+
+✅ Advanced Excel  
+✅ SQL Analytics  
+✅ Power BI Dashboard Development  
+✅ Python for Data Analysis  
+✅ Pandas & NumPy  
+✅ Data Visualization  
+✅ Dashboard Storytelling  
+
+---
+
+## 🎯 2026 Goals
+
+🎯 Build 10+ Data Analytics Projects  
+🎯 Master SQL & Power BI  
+🎯 Improve Python Analytics Skills  
+🎯 Create professional dashboard case studies  
+🎯 Secure a Data Analyst Role  
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn:
-https://www.linkedin.com/in/kondaparthi-tharun-a32180368
+<div align="center">
 
-🐙 GitHub:
-https://github.com/kondaparthitharun
+<a href="https://www.linkedin.com/in/kondaparthi-tharun-a32180368">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 Email:
-[tharun.kondaparthi12@gmail.com](mailto:tharun.kondaparthi12@gmail.com)
+<a href="mailto:tharun.kondaparthi12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kondaparthitharun">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 📊 Profile Views
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=kondaparthitharun\&color=blue)
+### ⭐ Data is the new oil, but insights are the real fuel.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5cf6,100:0ea5e9&section=footer"/>
 
-⭐ “Data is the new oil, but insights are the real fuel.”
-
+</div>
