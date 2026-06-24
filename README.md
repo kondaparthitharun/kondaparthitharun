@@ -157,3 +157,10 @@ Business reporting and analytical query development using SQL.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5cf6,100:0ea5e9&section=footer"/>
 
 </div>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/kondaparthitharun/kondaparthitharun/blob/output/github-contribution-grid-snake.svg)
+
+</div>
